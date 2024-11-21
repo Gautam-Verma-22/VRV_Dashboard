@@ -1,8 +1,8 @@
 
 // Mock Data
 let users = [
-    { id: 1, name: "John Doe", email: "john@example.com", status: "Active", role: "Admin" },
-    { id: 2, name: "Jane Smith", email: "jane@example.com", status: "Inactive", role: "Editor" },
+    { id: 1, name: "Garv", email: "Garv@anymail.com", status: "Active", role: "Admin" },
+    { id: 2, name: "Saurabh sharma", email: "Saurabh@anymail.com", status: "Inactive", role: "Editor" },
   ];
   
   let roles = [
